@@ -3,15 +3,15 @@ Awesome list of Javascript tutorials that will help you get started with our dev
 
 Table of contents:
 * [Environment Setup](#environment-setup)
-* [ES6 and Functional Javascript](#es6-functional-javascript)
+* [ES6 and Functional Javascript](#es6-and-functional-javascript)
 * [React](#react)
 * [Redux](#redux)
-* [React + Redux Testing](#react-redux-testing)
-* [React + Redux Project](#react-redux-project)
-* [Node + Express](#node-express)
-* [Node + Express + MongoDB](#node-express-mongodb)
-* [React + Redux + Node + Express + MongoDB](#react-redux-node-express-mongodb)
-* [Node + Express Testing](#node-express-testing)
+* [React Redux Testing](#react-redux-testing)
+* [React Redux Project](#react-redux-project)
+* [Node Express](#node-express)
+* [Node Express MongoDB](#node-express-mongodb)
+* [React Redux Node Express MongoDB](#react-redux-node-express-mongodb)
+* [Node Express Testing](#node-express-testing)
 * [Node API Builder](#node-api-builder)
 * [Node Production Environment](#node-production-environment)
 * [React Native](#react-native)
@@ -60,4 +60,11 @@ Table of contents:
   * [6 lessons learned from going to production with React-Redux](https://medium.com/@royisch/6-lessons-learned-from-going-to-production-with-react-redux-19257f6724f6#.4c98nawox)
   * [My journey toward a maintainable project structure for React/Redux](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5#.ndbhtvaxw)
   * [Authentication](https://medium.com/@MattiaManzati/tips-to-handle-authentication-in-redux-4d596e11bb21#.tkebol9gd)
-  * [Authentication](https://medium.com/@MattiaManzati/tips-to-handle-authentication-in-redux-4d596e11bb21#.tkebol9gd)
+
+### React Redux Testing
+* [Jest](https://facebook.github.io/jest/)
+* [Jest React](https://facebook.github.io/jest/docs/tutorial-react.html)
+* [Jest Redux](http://redux.js.org/docs/recipes/WritingTests.html)
+
+### React Redux Project
+* [Tutorial](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
