@@ -27,6 +27,7 @@ Table of contents:
 * [ECMA2015 (ES6)](https://babeljs.io/docs/learn-es2015/)
 * [ECMA2015 Features List](http://es6-features.org/)
 * [ECMA2015 Tutorial](https://github.com/domenic/count-to-6)
+* [Functional Programming](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.ltauianmy)
 * [Scope Chains And Closures](https://github.com/jesstelford/scope-chains-closures)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [High Order Functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/#more-1037)
@@ -68,3 +69,49 @@ Table of contents:
 
 ### React Redux Project
 * [Tutorial](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+
+### Node Express
+* [Node Intro](https://nodejs.org/en/about/)
+* [Node Tutorial](https://github.com/workshopper/learnyounode)
+* [Modules](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+* [Express Intro](http://expressjs.com/)
+* [Express Tutorial](https://github.com/azat-co/expressworks)
+* [Async Node](https://github.com/bulkan/async-you)
+* [JWT](https://jwt.io/)
+* [Passport](http://passportjs.org/)
+
+### Node Express Mongodb
+* [Intro MongoDB](https://docs.mongodb.com/manual/introduction/)
+* [MongoDB Tutorial](https://github.com/evanlucas/learnyoumongo)
+* [MongoDB Tutorial 2](http://blog.modulus.io/mongodb-tutorial)
+* [Mongoose](http://mongoosejs.com/)
+* [Mongoose Tutorial](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
+* [Project 1](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+* [Project 2](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+
+### React Redux Node Express MongoDB
+* [Project](https://webapplog.com/reactive-web-stack/)
+  * [Redux JWT](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.anzo8zhkm)
+  * [Redux JWT 2](https://auth0.com/blog/secure-your-react-and-redux-app-with-jwt-authentication/)
+* [Big Project](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+ 
+### Node Express Testing
+* [Debugging](https://github.com/othiym23/bug-clinic)
+* [Mocha Chai](http://mherman.org/blog/2016/09/12/testing-node-and-express/)
+
+### Node API Builder
+* [FeathersJS](http://feathersjs.com/)
+* [Video Tutorial](https://www.youtube.com/watch?v=CuM4vLkBaik)
+
+### Node Production Environment
+* [PM2](https://github.com/Unitech/pm2)
+* [Node in Production](https://expressjs.com/en/advanced/best-practice-performance.html#in-environment)
+
+### React Native
+* [Intro](https://facebook.github.io/react-native/)
+* [Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+* [Guide](http://www.reactnativeexpress.com/)
+* [Native Modules](https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d#.8bvvbaltk)
+* [Testing](https://facebook.github.io/react-native/docs/testing.html)
+* [Project](https://appendto.com/2016/11/build-a-coffee-finder-app-with-react-native-and-the-yelp-api/?reddit)
+  * [what-we-learned-after-using-react-native-for-a-year](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp)
