@@ -16,6 +16,8 @@ Table of contents:
 * [Node Production Environment](#node-production-environment)
 * [React Native](#react-native)
 
+---
+
 ### Environment Setup
 * [Install Node](https://nodejs.org/en/)
 * [Install MongoDB](https://www.mongodb.com/download-center?jmp=nav)
